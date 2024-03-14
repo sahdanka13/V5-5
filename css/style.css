@@ -499,9 +499,9 @@ main {
     border-radius: var(--border-radius-md);
     box-shadow: 0 5px 20px hsla(0, 0%, 0%, 0.15);
     transform: translateX(calc(-100% - 40px));
-    transition: 0.4s ease-in-out;
+    transition: 0.3s ease-in-out;
     z-index: 5;
-    animation: slideInOut 14s ease-in-out;
+    animation: slideInOut 10s ease-in-out;
   }
   
   @keyframes slideInOut {
